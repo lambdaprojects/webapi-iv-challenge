@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.appList {
+  text-align: left;
+  margin-left: 5%;
+  width: 90%;
+  border: 1px solid black;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.appCard {
+  width: 20%;
+  overflow: hidden;
+  border: 1px solid red;
+  height: 80px;
+  margin: 2%;
+  font-size: 12px;
+  text-align: justify;
+}
+
+.title {
+  font-size: 13px;
+  color: green;
+  text-decoration: underline;
+}
